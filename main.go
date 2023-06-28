@@ -8,7 +8,7 @@ import (
 	"strings"
 	"syscall"
 	"unsafe"
-	"./mousecontrol"
+	"github.com/abdabTheCreator/minecraft-control/mouse-control"
 )
 
 const (
